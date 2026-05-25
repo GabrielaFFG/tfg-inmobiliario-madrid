@@ -11,7 +11,7 @@ modelos de Machine Learning.
 
 ## Cómo ejecutar el notebook
 1. Abre el notebook en Google Colab
-2. Descarga el dataset desde Kaggle:  
+2. Descarga el dataset desde Kaggle o directamente desde el propio repositorio:  
    https://www.kaggle.com/datasets/mirbektoktogaraev/madrid-real-estate-market
 3. En el panel izquierdo de Colab, sube el archivo `houses_Madrid.csv`
 4. Ejecuta todas las celdas: Entorno de ejecución → Ejecutar todo
