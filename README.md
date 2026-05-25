@@ -1,4 +1,3 @@
-# tfg-inmobiliario-madrid
 # TFG — Predicción de precios inmobiliarios con Machine Learning
 
 **Autora:** Gabriela Fernández-Flores Gila  
