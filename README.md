@@ -2,7 +2,7 @@
 
 **Autora:** Gabriela Fernández-Flores Gila  
 **Tutor:** Ismael Gómez García  
-**Universidad:** CUNEF · Grado en Ingeniería Informática · 2025
+**Universidad:** CUNEF UNIVERSIDAD · 2026
 
 ## Descripción
 Este repositorio contiene el notebook del TFG sobre predicción 
